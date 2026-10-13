@@ -3,7 +3,8 @@
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F5AF0,35:4D7CFE,65:00C9A7,100:7B61FF&text=BUILD%20WITH%20MAHAD&fontSize=42&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&stroke=8C8AFF&strokeWidth=2" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:7F5AF0,35:4D7CFE,65:00C9A7,100:7B61FF&text=BUILD%20WITH%20MAHAD&fontSize=42&fontColor=FFFFFF&fontAlignY=45&animation=twinkling&stroke=8C8AFF&strokeWidth=2" />
 
 
 <a href="https://git.io/typing-svg">
