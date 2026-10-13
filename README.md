@@ -63,24 +63,27 @@ me.sayHi();
 <div align="center">
 
 <h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=350&lines=TECH+STACK" alt="Tech Stack" />
+  <span style="color:#A78BFA;">✦</span>
+  <span style="color:#67E8F9;">TECH STACK</span>
+  <span> ⚡</span>
+  <span style="color:#A78BFA;">⌁</span>
 </h2>
 
 <br/>
 
 <sub><b>💻 LANGUAGES</b></sub>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/JavaScript-0B1B55?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Python-0B1B55?style=for-the-badge&logo=python&logoColor=67E8F9" />
-<img src="https://img.shields.io/badge/C%2B%2B-0B1B55?style=for-the-badge&logo=cplusplus&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/JavaScript-0B1B55?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0B1B55" />
+<img src="https://img.shields.io/badge/Python-0B1B55?style=for-the-badge&logo=python&logoColor=67E8F9&labelColor=0B1B55" />
+<img src="https://img.shields.io/badge/C%2B%2B-0B1B55?style=for-the-badge&logo=cplusplus&logoColor=67E8F9&labelColor=0B1B55" />
 
 <br/><br/>
 
 <sub><b>🌐 FRONTEND DEVELOPMENT</b></sub>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/HTML5-1E3A8A?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/CSS3-1E3A8A?style=for-the-badge&logo=css3&logoColor=67E8F9" />
@@ -89,7 +92,7 @@ me.sayHi();
 
 <sub><b>⚙️ BACKEND DEVELOPMENT</b></sub>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Node.js-312E81?style=for-the-badge&logo=nodedotjs&logoColor=67E8F9" />
 <img src="https://img.shields.io/badge/Express.js-312E81?style=for-the-badge&logo=express&logoColor=FFFFFF" />
@@ -98,16 +101,16 @@ me.sayHi();
 
 <sub><b>🧠 AI & DATA ANALYSIS</b></sub>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/NumPy-0B1B55?style=for-the-badge&logo=numpy&logoColor=67E8F9" />
-<img src="https://img.shields.io/badge/Pandas-0B1B55?style=for-the-badge&logo=pandas&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF" />
 
 <br/><br/>
 
 <sub><b>🗄️ DATABASE</b></sub>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/MongoDB-312E81?style=for-the-badge&logo=mongodb&logoColor=67E8F9" />
 
@@ -115,7 +118,7 @@ me.sayHi();
 
 <sub><b>🛠️ TOOLS</b></sub>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Git-1E3A8A?style=for-the-badge&logo=git&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/GitHub-1E3A8A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
