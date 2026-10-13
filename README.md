@@ -58,3 +58,42 @@ console.log("Hey there! 👋 Exploring code, building projects, and turning idea
 const me = new Mahad();
 me.sayHi();
 ```
+---
+
+<h2 align="left">
+  <span style="color:#A78BFA;">✦</span>
+  <span style="color:#67E8F9;">Tech Stack</span>
+  <span style="color:#A78BFA;">⌁</span>
+</h2>
+
+<div align="left">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=js,python,cpp&theme=dark" />
+
+### 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+### 🧠 AI & Data Analysis
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
+
+### 🗄️ Database & Tools
+
+<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode&theme=dark" />
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,50:A78BFA,100:67E8F9&section=footer" />
+
+</div>
+
+---
