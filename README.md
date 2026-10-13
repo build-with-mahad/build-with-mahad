@@ -41,7 +41,7 @@ class Mahad {
         this.role = "Software Engineer | Backend Developer";
         this.location = "Karachi, Pakistan 🇵🇰";
         this.education = "🎓 BS Software Engineering | SMIU | Class of 2027";
-        this.interests = ["Backend Development 🖥️", "Artificial Intelligence 🦾", "Machine Learning 🔮", "Smart Automation ⚡"];
+        this.interests = ["Backend Development 🖥️","Artificial Intelligence 🦾","Machine Learning 🔮","Smart Automation ⚡"];
 
      this.openTo = [
     "Backend Development Opportunities 💼",
