@@ -63,27 +63,15 @@ me.sayHi();
 <div align="center">
 
 <h2>
-  <span style="color:#A78BFA;">✦</span>
-  <span style="color:#67E8F9;">TECH STACK ⚡</span>
-  <span style="color:#A78BFA;">⌁</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=500&lines=TECH+STACK+%E2%9A%A1" />
 </h2>
 
 <br/>
 
-<sub><b>💻 LANGUAGES</b></sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" />
-
-<br/><br/>
-
 <sub><b>🌐 FRONTEND DEVELOPMENT</b></sub>
 
 <br/>
-
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
 
@@ -92,7 +80,6 @@ me.sayHi();
 <sub><b>⚙️ BACKEND DEVELOPMENT</b></sub>
 
 <br/>
-
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF" />
 
@@ -101,7 +88,7 @@ me.sayHi();
 <sub><b>🧠 AI & DATA ANALYSIS</b></sub>
 
 <br/>
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF" />
 
@@ -110,7 +97,6 @@ me.sayHi();
 <sub><b>🗄️ DATABASE</b></sub>
 
 <br/>
-
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" />
 
 <br/><br/>
@@ -118,7 +104,6 @@ me.sayHi();
 <sub><b>🛠️ TOOLS</b></sub>
 
 <br/>
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" />
