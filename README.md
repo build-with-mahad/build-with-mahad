@@ -26,12 +26,33 @@
 
 </div>
 
-## 👨‍💻 About Me
 
-- 🎓 I'm a Software Engineering student passionate about building software.
-- 💻 Interested in Backend Development and problem-solving.
-- 🤖 Exploring Artificial Intelligence and Machine Learning.
-- ⚙️ Love learning about automation and building practical projects.
-- 🌱 Currently improving my development skills and turning ideas into reality.
-- 🚀 My goal is to build useful, innovative, and impactful software.
+## 🧠 About Me
 
+```javascript
+class Mahad {
+    constructor() {
+        this.name = "Muhammad Mahad Khan";
+        this.role = "Software Engineer | Backend Developer";
+        this.location = "Pakistan 🇵🇰";
+        this.education = "Software Engineering Student";
+
+        this.focus = [
+            "Backend Development 💻",
+            "Artificial Intelligence 🤖",
+            "Machine Learning 🧠",
+            "Automation ⚙️"
+        ];
+
+        this.currently = "Learning, Building & Growing 🚀";
+        this.goal = "Turning Ideas Into Reality";
+    }
+
+    sayHi() {
+        console.log("Welcome to my profile! Let's create something amazing together ✨");
+    }
+}
+
+const me = new Mahad();
+me.sayHi();
+```
