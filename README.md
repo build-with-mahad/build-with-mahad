@@ -30,9 +30,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87" width="100%" />
 
-<h2 align="center" style="margin:0; padding:0;">
-  <span style="color:#A78BFA;">ABOUT ME 💻</span>
-</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=1&pause=999999&color=A78BFA&center=true&vCenter=true&repeat=false&width=1000&lines=ABOUT+ME+%F0%9F%92%BB" width="100%" alt="ABOUT ME 💻" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87" width="100%" />
 
