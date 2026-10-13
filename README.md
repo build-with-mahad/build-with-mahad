@@ -1,14 +1,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:312E81,35:1E3A8A,70:115E59,100:3B0764&text=MUHAMMAD%20MAHAD%20KHAN&fontSize=38&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&stroke=6366F1&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1B55,35:111B55,70:312E81,100:581C87&text=Muhammad%20Mahad%20Khan&fontSize=28&fontColor=C4B5FD&fontAlignY=30&animation=fadeIn&desc=Software%20Engineer&descSize=42&descColor=FFFFFF&descAlignY=58" />
 
-
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=1000&lines=Backend+Developer+Enthusiast+%F0%9F%92%BB;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Exploring+Machine+Learning+%F0%9F%A7%A0;Exploring+Automation+%E2%9A%99%EF%B8%8F" alt="Backend Developer Enthusiast exploring AI, ML and Automation" />
-</a>
-
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=21&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=—+Backend+Developer+—" alt="Backend Developer" />
 
 </div>
 
