@@ -29,9 +29,7 @@
 
 
 <h2 align="left">
-  <span style="color:#A78BFA;">✦</span>
-  <span style="color:#67E8F9;">About Me</span>
-  <span style="color:#A78BFA;">⌁</span>
+  <span style="color:#A78BFA; font-family:Orbitron, sans-serif;">✦ ABOUT ME ⌁</span>
 </h2>
 
 ```javascript
