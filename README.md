@@ -29,9 +29,8 @@
 
 
 <h2 align="left">
-  <span style="color:#A78BFA; font-family:Orbitron, sans-serif;">✦ ABOUT ME ⌁</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=1&pause=999999&color=A78BFA&center=false&vCenter=true&repeat=false&width=350&lines=ABOUT+ME" alt="ABOUT ME" />
 </h2>
-
 ```javascript
 class Mahad {
     constructor() {
