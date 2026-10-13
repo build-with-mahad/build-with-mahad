@@ -28,7 +28,7 @@
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=1&pause=999999&color=A78BFA&center=true&vCenter=true&repeat=false&width=400&lines=%E2%9C%A8+ABOUT+ME+%F0%9F%91%A8%5Cu200d%F0%9F%92%BB" alt="✨ ABOUT ME 👨‍💻" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=1&pause=999999&color=A78BFA&center=true&vCenter=true&repeat=false&width=400&lines=%E2%9C%A8+ABOUT+ME+%F0%9F%92%BB" alt="✨ ABOUT ME 💻" />
 </h2>
 
 ```javascript
