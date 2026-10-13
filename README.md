@@ -60,40 +60,57 @@ me.sayHi();
 ```
 ---
 
-<h2 align="left">
+<h2 align="center">
   <span style="color:#A78BFA;">✦</span>
   <span style="color:#67E8F9;">Tech Stack</span>
   <span style="color:#A78BFA;">⌁</span>
 </h2>
 
-<div align="left">
+<br/>
+
+<div align="center">
 
 ### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=js,python,cpp&theme=dark" />
 
+<br/><br/>
+
 ### 🌐 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+
+<br/><br/>
 
 ### ⚙️ Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
+<br/><br/>
+
 ### 🧠 AI & Data Analysis
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
-### 🗄️ Database & Tools
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode&theme=dark" />
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+
+<br/><br/>
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
+<br/>
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,50:A78BFA,100:67E8F9&section=footer" />
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,50:A78BFA,100:67E8F9&section=footer" />
 </div>
 
 ---
