@@ -39,22 +39,20 @@ class Mahad {
     constructor() {
         this.name = "Muhammad Mahad Khan";
         this.role = "Software Engineer | Backend Developer";
-        this.location = "Pakistan 🇵🇰";
-        this.education = "Software Engineering Student";
+        this.location = "Karachi, Pakistan 🇵🇰";
+        this.education = "🎓 BS Software Engineering | SMIU | Class of 2027";
+        this.interests = [ "Backend Development 🖥️",  "Artificial Intelligence 🦾",  "Machine Learning 🔮","Smart Automation ⚡"  ];
 
-        this.interests = [
-            "Backend Development 🖥️",
-            "Artificial Intelligence 🦾",
-            "Machine Learning 🔮",
-            "Smart Automation ⚡"
-        ];
-
-        this.currently = "Turning Ideas Into Reality 🌌";
-    }
+this.openTo = [
+    "Backend Development Opportunities 💼",
+    "Internships & Collaborations 🤝",
+    "Open-Source Projects 🌐",
+    "Exciting Tech Projects 🚀"
+];
+}
 
     sayHi() {
-        console.log("Thanks for stopping by! Let's innovate and build 🚀");
-    }
+console.log("Hey there! 👋 Exploring code, building projects, and turning ideas into reality 💻✨");    }
 }
 
 const me = new Mahad();
