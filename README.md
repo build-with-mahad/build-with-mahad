@@ -13,18 +13,22 @@
 
 ## 🧠 About Me
 
+## 🧠 About Me
+
+```javascript
 class Developer {
     constructor() {
         this.name = "Muhammad Mahad Khan";
         this.role = "Software Engineer";
         this.education = "Software Engineering Student";
-        this.focus = ["Backend Development","AI","ML","Automation"];
+        this.focus = ["Backend Development", "AI", "ML", "Automation"];
     }
-    
-   sayHi() {
-    console.log("Welcome! Open for backend opportunities and technical collaborations. 🚀");
-}
+
+    sayHi() {
+        console.log("Welcome! Open for backend opportunities and technical collaborations. 🚀");
+    }
 }
 
 const me = new Developer();
 me.sayHi();
+```
