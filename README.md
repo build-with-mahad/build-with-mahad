@@ -1,7 +1,7 @@
 <!-- Header Banner / Title -->
 <div align="center">
   <h1>Muhamamd Mahad Khan</h1>
-  <p><b>Software Engineer | Backend Developer | Exploring AI , ML & Automation </b></p>
+  <p><b> Backend Developer | Exploring AI , ML & Automation </b></p>
   
   <!-- Social Badges -->
   <a href="mailto:mahadkhan122005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
