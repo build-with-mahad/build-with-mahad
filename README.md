@@ -60,10 +60,11 @@ me.sayHi();
 
 <div align="center">
 
-<h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=500&lines=TECH+STACK+%E2%9A%A1" />
+<h2 align="center">
+  <span style="color:#A78BFA;">✦</span>
+  <span style="color:#A78BFA;">ＴＥＣＨ ＳＴＡＣＫ ⚡</span>
+  <span style="color:#A78BFA;">⌁</span>
 </h2>
-
 <br/>
 
 <sub><b>🌐 FRONTEND DEVELOPMENT</b></sub>
