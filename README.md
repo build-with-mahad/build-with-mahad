@@ -1,27 +1,14 @@
 
 <div align="center">
 
-# Hey, I'm Mahad! 👋
+<h1>👋 Hey, I'm Mahad!</h1>
 
-### Aspiring Software Developer | Building My Future with Code 🚀
+<h3>💻 Aspiring Software Developer | Building with Code 🚀</h3>
 
-Welcome to my GitHub profile!
+<p>
+  Learning, Building & Growing Every Day.
+</p>
 
-I'm passionate about learning programming, building projects, and exploring new technologies.
-
----
-
-### 💻 About Me
-
-- 🌱 Currently learning software development
-- 🛠️ Working on improving my coding skills
-- 🚀 Interested in building useful and creative projects
-- 🎯 Goal: Become a skilled software developer
-
----
-
-### 🤝 Let's Connect
-
-Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=BUILD%20WITH%20MAHAD&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Build With Mahad banner"/>
 
 </div>
