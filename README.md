@@ -1,31 +1,32 @@
-<!-- Header Banner / Title -->
 <div align="center">
-  <h1>Muhammad Mahad Khan</h1>
-  <p><b> Backend Developer | Exploring AI, ML & Automation </b></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,22,23,24,25,26&height=180&section=header&text=Muhammad%20Mahad%20Khan&fontSize=36&fontColor=fff&subFontSize=16&desc=Backend%20Developer%20|%20Python%20|%20Node.js%20|%20Databases&descColor=fff" width="100%" />
+</div>
+
+<div align="center">
+  <p><b>AWS | EC2 | Nginx | Gunicorn 🚀</b></p>
   
-  <!-- Social Badges -->
-  <a href="mailto:mahadkhan122005@gmail.com"><img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)"/></a>
-  <a href="[https://www.linkedin.com/in/mahadkhan-mk/](https://www.linkedin.com/in/mahadkhan-mk/)"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"/></a>
-  <a href="[https://your-portfolio.com](https://your-portfolio.com)"><img src="[https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)"/></a>
+  <a href="mailto:mahadkhan122005@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mahadkhan-mk/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
 </div>
 
 ---
 
 ## 🧠 About Me
 
-```javascript
-class Developer {
-    constructor() {
-        this.name = "Muhammad Mahad Khan";
-        this.role = "Software Engineer";
-        this.education = "Software Engineering Student";
-        this.focus = ["Backend Development", "AI", "ML", "Automation"];
-    }
+```python
+class MahadKhan:
+    def __init__(self):
+        self.name = "Muhammad Mahad Khan"
+        self.location = "Karachi, Pakistan 🇵🇰"
+        self.role = "Software Engineering Student"
+        self.focus = ["Backend Development", "Node.js", "Python", "Databases"]
+        self.currently = "Building scalable backend systems & APIs."
+        self.open_to = "Backend Developer & Software Engineering opportunities"
 
-    sayHi() {
-        console.log("Welcome! Open for backend opportunities and technical collaborations. 🚀");
-    }
-}
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something great together 🚀")
 
-const me = new Developer();
-me.sayHi();
+me = MahadKhan()
+me.say_hi()
