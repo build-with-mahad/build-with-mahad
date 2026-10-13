@@ -25,3 +25,13 @@
 </a>
 
 </div>
+
+## 👨‍💻 About Me
+
+- 🎓 I'm a Software Engineering student passionate about building software.
+- 💻 Interested in Backend Development and problem-solving.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- ⚙️ Love learning about automation and building practical projects.
+- 🌱 Currently improving my development skills and turning ideas into reality.
+- 🚀 My goal is to build useful, innovative, and impactful software.
+
