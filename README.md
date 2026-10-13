@@ -27,7 +27,12 @@
 </div>
 
 
-## 🧠 About Me
+
+<h2 align="left">
+  <span style="color:#A78BFA;">✦</span>
+  <span style="color:#67E8F9;">About Me</span>
+  <span style="color:#A78BFA;">⌁</span>
+</h2>
 
 ```javascript
 class Mahad {
@@ -37,19 +42,18 @@ class Mahad {
         this.location = "Pakistan 🇵🇰";
         this.education = "Software Engineering Student";
 
-        this.focus = [
-            "Backend Development 💻",
-            "Artificial Intelligence 🤖",
-            "Machine Learning 🧠",
-            "Automation ⚙️"
+        this.interests = [
+            "Backend Development 🖥️",
+            "Artificial Intelligence 🦾",
+            "Machine Learning 🔮",
+            "Smart Automation ⚡"
         ];
 
-        this.currently = "Learning, Building & Growing 🚀";
-        this.goal = "Turning Ideas Into Reality";
+        this.currently = "Turning Ideas Into Reality 🌌";
     }
 
     sayHi() {
-        console.log("Welcome to my profile! Let's create something amazing together ✨");
+        console.log("Thanks for stopping by! Let's innovate and build 🚀");
     }
 }
 
