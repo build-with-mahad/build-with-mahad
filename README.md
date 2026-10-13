@@ -60,10 +60,8 @@ me.sayHi();
 
 <div align="center">
 
-<h2 align="center">
-  <span style="color:#A78BFA;">✦</span>
-  <span style="color:#A78BFA;">ＴＥＣＨ ＳＴＡＣＫ ⚡</span>
-  <span style="color:#A78BFA;">⌁</span>
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=1&pause=999999&color=A78BFA&center=false&vCenter=true&repeat=false&width=450&lines=TECH+STACK+%E2%9A%A1" alt="TECH STACK ⚡" />
 </h2>
 <br/>
 
