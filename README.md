@@ -60,57 +60,71 @@ me.sayHi();
 ```
 ---
 
-<h2 align="center">
-  <span style="color:#A78BFA;">✦</span>
-  <span style="color:#67E8F9;">Tech Stack</span>
-  <span style="color:#A78BFA;">⌁</span>
+<div align="center">
+
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=350&lines=TECH+STACK" alt="Tech Stack" />
 </h2>
 
 <br/>
 
-<div align="center">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=js,python,cpp&theme=dark" />
+<sub><b>💻 LANGUAGES</b></sub>
 
 <br/><br/>
 
-### 🌐 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-
-<br/><br/>
-
-### ⚙️ Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+<img src="https://img.shields.io/badge/JavaScript-0B1B55?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Python-0B1B55?style=for-the-badge&logo=python&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/C%2B%2B-0B1B55?style=for-the-badge&logo=cplusplus&logoColor=67E8F9" />
 
 <br/><br/>
 
-### 🧠 AI & Data Analysis
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<sub><b>🌐 FRONTEND DEVELOPMENT</b></sub>
 
 <br/><br/>
 
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+<img src="https://img.shields.io/badge/HTML5-1E3A8A?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/CSS3-1E3A8A?style=for-the-badge&logo=css3&logoColor=67E8F9" />
 
 <br/><br/>
 
-### 🛠️ Tools
+<sub><b>⚙️ BACKEND DEVELOPMENT</b></sub>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<br/><br/>
 
-</div>
+<img src="https://img.shields.io/badge/Node.js-312E81?style=for-the-badge&logo=nodedotjs&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/Express.js-312E81?style=for-the-badge&logo=express&logoColor=FFFFFF" />
 
-<br/>
+<br/><br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,50:A78BFA,100:67E8F9&section=footer" />
+<sub><b>🧠 AI & DATA ANALYSIS</b></sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NumPy-0B1B55?style=for-the-badge&logo=numpy&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/Pandas-0B1B55?style=for-the-badge&logo=pandas&logoColor=C4B5FD" />
+
+<br/><br/>
+
+<sub><b>🗄️ DATABASE</b></sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/MongoDB-312E81?style=for-the-badge&logo=mongodb&logoColor=67E8F9" />
+
+<br/><br/>
+
+<sub><b>🛠️ TOOLS</b></sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Git-1E3A8A?style=for-the-badge&logo=git&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/GitHub-1E3A8A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/VS_Code-1E3A8A?style=for-the-badge&logo=visualstudiocode&logoColor=67E8F9" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87" width="100%" />
+
 </div>
 
 ---
