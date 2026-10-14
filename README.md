@@ -205,19 +205,19 @@ me.sayHi();
   <tbody>
     <tr>
       <td>🌟 Contributions (2025–2026)</td>
-      <td>🟢 <b>265</b></td>
+      <td> <b>265</b></td>
     </tr>
     <tr>
       <td>📂 Active Repositories</td>
-      <td>🟢 <b>5</b></td>
+      <td> <b>5</b></td>
     </tr>
     <tr>
       <td>💻 Commits This Month</td>
-      <td>🔵 <b>21</b></td>
+      <td> <b>21</b></td>
     </tr>
     <tr>
       <td>🎂 GitHub Member Since</td>
-      <td>🟣 <b>2024</b></td>
+      <td> <b>2024</b></td>
     </tr>
   </tbody>
 </table>
