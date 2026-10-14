@@ -126,7 +126,7 @@ me.sayHi();
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87" width="100%" />
 
 </div>
-## 🚀 Featured Projects
+ 🚀 Featured Projects
 
 <table>
   <thead>
@@ -139,14 +139,14 @@ me.sayHi();
   <tbody>
     <tr>
       <td>📸 Instagram Clone</td>
-      <td>A social media web application featuring an Instagram-inspired design and user interface.</td>
+      <td>Backend development project inspired by Instagram, focused on implementing server-side functionality and application logic.</td>
       <td>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </td>
     </tr>
     <tr>
-      <td>🏠 House Price Predictor</td>
-      <td>A machine learning project that analyzes housing data to predict house prices.</td>
+      <td>🏠 House Price Data Analysis</td>
+      <td>Exploratory data analysis and data preprocessing to clean, transform, and understand housing data before machine learning model development.</td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
@@ -154,9 +154,11 @@ me.sayHi();
     </tr>
     <tr>
       <td>✅ Todo List</td>
-      <td>A simple task management application to organize daily tasks and keep track of activities.</td>
+      <td>A web-based task management application for organizing daily tasks and tracking activities.</td>
       <td>
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </td>
     </tr>
   </tbody>
