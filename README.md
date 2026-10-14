@@ -66,9 +66,15 @@ me.sayHi();
 
 <div align="center">
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=1&pause=999999&color=A78BFA&center=true&vCenter=true&repeat=false&width=450&lines=TECH+STACK+%E2%9A%A1" alt="TECH STACK ⚡" />
-</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87" width="100%" />
+
+<div align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=1&pause=999999&color=A78BFA&center=false&vCenter=true&repeat=false&width=250&lines=TECH+STACK+%E2%9A%A1" alt="TECH STACK ⚡" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87" width="100%" />
+
+</div>
 <br/>
 
 <sub><b>🌐 FRONTEND DEVELOPMENT</b></sub>
