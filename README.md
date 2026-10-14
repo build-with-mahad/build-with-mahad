@@ -34,7 +34,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87" width="100%" />
 
 </div>
-
+</div>
+</br>
 ```javascript
 class Mahad {
     constructor() {
