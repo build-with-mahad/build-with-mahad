@@ -170,10 +170,9 @@ me.sayHi();
 </tbody>
 </table>
 
-<br/>
-
 <!-- GITHUB STATS -->
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87" width="100%" />
 
 <div align="left">
@@ -184,44 +183,49 @@ me.sayHi();
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=build-with-mahad&show_icons=true&theme=dark&hide_border=true&title_color=A78BFA&icon_color=67E8F9&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=build-with-mahad&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=67E8F9&text_color=C9D1D9&ring_color=F97316" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=build-with-mahad&layout=compact&theme=dark&hide_border=true&title_color=A78BFA&text_color=C9D1D9&bg_color=0D1117" alt="Most Used Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=build-with-mahad&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=67E8F9" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=build-with-mahad&theme=dark&hide_border=true&ring=A78BFA&fire=67E8F9&currStreakLabel=A78BFA&background=0D1117" width="70%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=build-with-mahad&hide_border=true&background=0D1117&ring=A78BFA&fire=F97316&currStreakLabel=67E8F9&sideLabels=A78BFA&currStreakNum=67E8F9&sideNums=F97316&dates=9CA3AF" width="90%" />
 
 <br/><br/>
 
 <table>
 <thead>
 <tr>
-<th>📊 Metric</th>
-<th>📘 Value</th>
+<th><span style="color:#A78BFA;">📊 Metric</span></th>
+<th><span style="color:#67E8F9;">🔢 Value</span></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>🟩 Contributions (2025–2026)</td>
-<td>GitHub profile data</td>
+<td>🟪 <b>Contributions</b></td>
+<td>🟦 <b>Check profile</b></td>
 </tr>
 <tr>
-<td>📂 Public Repositories</td>
-<td>Live on GitHub</td>
+<td>🟩 <b>Public Repositories</b></td>
+<td>🟢 <b>Check profile</b></td>
 </tr>
 <tr>
-<td>🔄 Commits This Month</td>
-<td>Live on GitHub</td>
+<td>🟧 <b>Commits This Month</b></td>
+<td>🟠 <b>Check profile</b></td>
 </tr>
 <tr>
-<td>🎂 GitHub Member Since</td>
-<td>Profile data</td>
+<td>🟦 <b>GitHub Member Since</b></td>
+<td>🟣 <b>2026</b></td>
 </tr>
 </tbody>
 </table>
 
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87" width="100%" />
+
 </div>
 
----
+
+<br/>
+
