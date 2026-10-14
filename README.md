@@ -126,7 +126,20 @@ me.sayHi();
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87" width="100%" />
 
 </div>
-🚀 Featured Projects
+
+<!-- FEATURED PROJECTS -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87" width="100%" />
+
+<div align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=18&duration=1&pause=999999&color=A78BFA&center=false&vCenter=true&repeat=false&width=300&lines=%F0%9F%9A%80+FEATURED+PROJECTS" alt="FEATURED PROJECTS" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87" width="100%" />
+
+<br/>
+
 <table>
   <thead>
     <tr>
@@ -165,6 +178,14 @@ me.sayHi();
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87" width="100%" />
+
+</div>
+
+
 <!-- GITHUB STATS -->
 <div align="center">
 
