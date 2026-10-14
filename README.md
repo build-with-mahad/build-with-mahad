@@ -196,25 +196,25 @@ me.sayHi();
 <table>
   <thead>
     <tr>
-      <th><span style="color:#A78BFA;">📊 Metric</span></th>
-      <th><span style="color:#67E8F9;">🔢 Value</span></th>
+      <th>📊 <span style="color:#A78BFA;">Metric</span></th>
+      <th>🔢 <span style="color:#67E8F9;">Value</span></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>🟪 <b><span style="color:#A78BFA;">Total Contributions</span></b></td>
-      <td><b><span style="color:#4ADE80;">1,913</span></b></td>
+      <td>🟪 <b>Contributions (2025–2026)</b></td>
+      <td><b><span style="color:#4ADE80;">265</span></b></td>
     </tr>
     <tr>
-      <td>🟩 <b><span style="color:#4ADE80;">Public Repositories</span></b></td>
-      <td><b><span style="color:#67E8F9;">6</span></b></td>
+      <td>🟩 <b>Active Repositories</b></td>
+      <td><b><span style="color:#4ADE80;">5</span></b></td>
     </tr>
     <tr>
-      <td>🟧 <b><span style="color:#FB923C;">Commits This Month</span></b></td>
-      <td><b><span style="color:#4ADE80;">21</span></b></td>
+      <td>🟧 <b>Commits This Month</b></td>
+      <td><b><span style="color:#67E8F9;">21</span></b></td>
     </tr>
     <tr>
-      <td>🟦 <b><span style="color:#67E8F9;">GitHub Member Since</span></b></td>
+      <td>🟦 <b>GitHub Member Since</b></td>
       <td><b><span style="color:#A78BFA;">2024</span></b></td>
     </tr>
   </tbody>
