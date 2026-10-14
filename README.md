@@ -122,17 +122,106 @@ me.sayHi();
 
 </div>
 
+<!-- FEATURED PROJECTS -->
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87" width="100%" />
 
 <div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=1&pause=999999&color=A78BFA&center=false&vCenter=true&repeat=false&width=300&lines=%F0%9F%9A%80+FEATURED+PROJECTS" alt="Featured Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=1&pause=999999&color=A78BFA&center=false&vCenter=true&repeat=false&width=350&lines=%F0%9F%9A%80+FEATURED+PROJECTS" alt="Featured Projects" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87" width="100%" />
+</div>
+
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech Stack</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>📊 <b>Finance & Accounting AI</b></td>
+<td>Full-scale ERP handling business transactions end-to-end with real-time dashboard, financial reports & inventory tracking.</td>
+<td>Django · PostgreSQL · AWS · OCR</td>
+</tr>
+<tr>
+<td>📈 <b>Price Tracking Scraper</b></td>
+<td>Automated price monitoring across 10+ e-commerce platforms with scheduled scraping, historical storage & alert integration.</td>
+<td>Python · Selenium · BeautifulSoup · Requests</td>
+</tr>
+<tr>
+<td>🛡️ <b>Face Recognition Attendance</b></td>
+<td>Attendance system powered by facial recognition for automated tracking.</td>
+<td>Python · OpenCV</td>
+</tr>
+<tr>
+<td>🗃️ <b>ERP System</b></td>
+<td>Enterprise resource planning system with PL/SQL and advanced backend logic.</td>
+<td>Oracle · PostgreSQL · PL/SQL</td>
+</tr>
+<tr>
+<td>📚 <b>Library Management System</b></td>
+<td>Database-based system with binary search optimization, lookup and real-time interface.</td>
+<td>Django · JavaScript · AJAX</td>
+</tr>
+</tbody>
+</table>
+
+<br/>
+
+<!-- GITHUB STATS -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87" width="100%" />
+
+<div align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=1&pause=999999&color=A78BFA&center=false&vCenter=true&repeat=false&width=300&lines=%F0%9F%93%88+GITHUB+STATS" alt="GitHub Stats" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87" width="100%" />
 
-</div>
+<br/>
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=build-with-mahad&show_icons=true&theme=dark&hide_border=true&title_color=A78BFA&icon_color=67E8F9&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=build-with-mahad&layout=compact&theme=dark&hide_border=true&title_color=A78BFA&text_color=C9D1D9&bg_color=0D1117" alt="Most Used Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=build-with-mahad&theme=dark&hide_border=true&ring=A78BFA&fire=67E8F9&currStreakLabel=A78BFA&background=0D1117" width="70%" alt="GitHub Streak" />
+
+<br/><br/>
+
+<table>
+<thead>
+<tr>
+<th>📊 Metric</th>
+<th>📘 Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🟩 Contributions (2025–2026)</td>
+<td>GitHub profile data</td>
+</tr>
+<tr>
+<td>📂 Public Repositories</td>
+<td>Live on GitHub</td>
+</tr>
+<tr>
+<td>🔄 Commits This Month</td>
+<td>Live on GitHub</td>
+</tr>
+<tr>
+<td>🎂 GitHub Member Since</td>
+<td>Profile data</td>
+</tr>
+</tbody>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87" width="100%" />
+</div>
 
 ---
