@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87&text=MUHAMMAD%20MAHAD%20KHAN&fontSize=40&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20Backend%20Developer&descSize=19&descColor=C4B5FD&descAlignY=58" />
