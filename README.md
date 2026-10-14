@@ -126,52 +126,41 @@ me.sayHi();
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87" width="100%" />
 
 </div>
+## 🚀 Featured Projects
 
-## 💜 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 📸 Instagram Clone
-
-A social media clone inspired by Instagram, built to practice JavaScript and web development.
-
-**Tech Stack:** JavaScript
-
-[🔗 View Repository](https://github.com/build-with-mahad/Instagram-Clone)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏠 House Price Predictor
-
-A Python project focused on house price prediction and data preprocessing.
-
-**Tech Stack:** Python, Pandas
-
-[🔗 View Repository](https://github.com/build-with-mahad/House-Price-Predicter)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✅ Todo List
-
-A task management project for organizing daily tasks.
-
-**Tech Stack:** CSS
-
-[🔗 View Repository](https://github.com/build-with-mahad/Todo-List-)
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>📸 <a href="https://github.com/build-with-mahad/Instagram-Clone">Instagram Clone</a></td>
+      <td>Instagram-inspired social media interface built to practice frontend development and JavaScript.</td>
+      <td>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </td>
+    </tr>
+    <tr>
+      <td>🏠 <a href="https://github.com/build-with-mahad/House-Price-Predicter">House Price Predictor</a></td>
+      <td>House price prediction project focused on data processing and analyzing housing data.</td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>✅ <a href="https://github.com/build-with-mahad/Todo-List-">Todo List</a></td>
+      <td>A simple task management application for organizing and tracking daily tasks.</td>
+      <td>
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
 </table>
-
 <!-- GITHUB STATS -->
 <div align="center">
 
