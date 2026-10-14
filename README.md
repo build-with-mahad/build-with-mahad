@@ -127,54 +127,49 @@ me.sayHi();
 
 </div>
 
-<!-- FEATURED PROJECTS -->
-<div align="center">
+## 💜 Featured Projects
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87" width="100%" />
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=18&duration=1&pause=999999&color=A78BFA&center=false&vCenter=true&repeat=false&width=350&lines=%F0%9F%9A%80+FEATURED+PROJECTS" alt="Featured Projects" />
-</div>
+### 📸 Instagram Clone
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87" width="100%" />
+A social media clone inspired by Instagram, built to practice JavaScript and web development.
 
-</div>
+**Tech Stack:** JavaScript
 
-<table>
-<thead>
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Tech Stack</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>📊 <b>Finance & Accounting AI</b></td>
-<td>Full-scale ERP handling business transactions end-to-end with real-time dashboard, financial reports & inventory tracking.</td>
-<td>Django · PostgreSQL · AWS · OCR</td>
-</tr>
-<tr>
-<td>📈 <b>Price Tracking Scraper</b></td>
-<td>Automated price monitoring across 10+ e-commerce platforms with scheduled scraping, historical storage & alert integration.</td>
-<td>Python · Selenium · BeautifulSoup · Requests</td>
+[🔗 View Repository](https://github.com/build-with-mahad/Instagram-Clone)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 House Price Predictor
+
+A Python project focused on house price prediction and data preprocessing.
+
+**Tech Stack:** Python, Pandas
+
+[🔗 View Repository](https://github.com/build-with-mahad/House-Price-Predicter)
+
+</td>
 </tr>
 <tr>
-<td>🛡️ <b>Face Recognition Attendance</b></td>
-<td>Attendance system powered by facial recognition for automated tracking.</td>
-<td>Python · OpenCV</td>
+<td width="50%" valign="top">
+
+### ✅ Todo List
+
+A task management project for organizing daily tasks.
+
+**Tech Stack:** CSS
+
+[🔗 View Repository](https://github.com/build-with-mahad/Todo-List-)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
 </tr>
-<tr>
-<td>🗃️ <b>ERP System</b></td>
-<td>Enterprise resource planning system with PL/SQL and advanced backend logic.</td>
-<td>Oracle · PostgreSQL · PL/SQL</td>
-</tr>
-<tr>
-<td>📚 <b>Library Management System</b></td>
-<td>Database-based system with binary search optimization, lookup and real-time interface.</td>
-<td>Django · JavaScript · AJAX</td>
-</tr>
-</tbody>
 </table>
 
 <!-- GITHUB STATS -->
