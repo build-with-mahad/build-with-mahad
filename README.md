@@ -189,8 +189,7 @@ me.sayHi();
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=build-with-mahad&hide_border=true&background=0D1117&ring=A78BFA&fire=F97316&currStreakLabel=67E8F9&sideLabels=A78BFA&currStreakNum=67E8F9&sideNums=F97316&dates=9CA3AF" width="90%" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=build-with-mahad&hide_border=true&background=0D1117&ring=A78BFA&fire=F97316&currStreakLabel=67E8F9&sideLabels=A78BFA&currStreakNum=67E8F9&sideNums=F97316&dates=4ADE80" width="90%" alt="GitHub Streak" />
 <br/><br/>
 
 
