@@ -193,32 +193,36 @@ me.sayHi();
 
 <br/><br/>
 
+
+
 <table>
   <thead>
     <tr>
-      <th>📊 <span style="color:#A78BFA;">Metric</span></th>
-      <th>🔢 <span style="color:#67E8F9;">Value</span></th>
+      <th>📊 Metric</th>
+      <th>🔢 Value</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>🟪 <b>Contributions (2025–2026)</b></td>
-      <td><b><span style="color:#4ADE80;">265</span></b></td>
+      <td>🌟 Contributions (2025–2026)</td>
+      <td>🟢 <b>265</b></td>
     </tr>
     <tr>
-      <td>🟩 <b>Active Repositories</b></td>
-      <td><b><span style="color:#4ADE80;">5</span></b></td>
+      <td>📂 Active Repositories</td>
+      <td>🟢 <b>5</b></td>
     </tr>
     <tr>
-      <td>🟧 <b>Commits This Month</b></td>
-      <td><b><span style="color:#67E8F9;">21</span></b></td>
+      <td>💻 Commits This Month</td>
+      <td>🔵 <b>21</b></td>
     </tr>
     <tr>
-      <td>🟦 <b>GitHub Member Since</b></td>
-      <td><b><span style="color:#A78BFA;">2024</span></b></td>
+      <td>🎂 GitHub Member Since</td>
+      <td>🟣 <b>2024</b></td>
     </tr>
   </tbody>
 </table>
+
+
 
 <br/>
 
