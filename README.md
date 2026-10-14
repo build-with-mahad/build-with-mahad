@@ -126,7 +126,7 @@ me.sayHi();
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87" width="100%" />
 
 </div>
- 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
   <thead>
@@ -139,14 +139,17 @@ me.sayHi();
   <tbody>
     <tr>
       <td>📸 Instagram Clone</td>
-      <td>Backend development project inspired by Instagram, focused on implementing server-side functionality and application logic.</td>
+      <td>Backend development project inspired by Instagram, focused on server-side functionality, API development, and database management.</td>
       <td>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </td>
     </tr>
     <tr>
       <td>🏠 House Price Data Analysis</td>
-      <td>Exploratory data analysis and data preprocessing to clean, transform, and understand housing data before machine learning model development.</td>
+      <td>Exploratory data analysis and preprocessing to clean, transform, and understand housing data before machine learning model development.</td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
