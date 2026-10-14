@@ -122,4 +122,17 @@ me.sayHi();
 
 </div>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87" width="100%" />
+
+<div align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=1&pause=999999&color=A78BFA&center=false&vCenter=true&repeat=false&width=300&lines=%F0%9F%9A%80+FEATURED+PROJECTS" alt="Featured Projects" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1B55,40:1E3A8A,75:312E81,100:581C87" width="100%" />
+
+</div>
+
+
 ---
